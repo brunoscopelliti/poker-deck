@@ -1,0 +1,27 @@
+{
+  "name": "poker-deck",
+  "version": "1.0.0",
+  "description": "Basic french deck of poker cards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunoscopelliti/poker-deck.git"
+  },
+  "keywords": [
+    "poker",
+    "deck",
+    "poker-deck",
+    "cards",
+    "french-cards",
+    "poker-cards"
+  ],
+  "author": "Bruno Scopelliti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoscopelliti/poker-deck/issues"
+  },
+  "homepage": "https://github.com/brunoscopelliti/poker-deck"
+}
