@@ -1,6 +1,6 @@
 {
   "name": "poker-deck",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic french deck of poker cards.",
   "main": "index.js",
   "scripts": {
